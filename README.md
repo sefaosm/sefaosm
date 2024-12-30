@@ -13,7 +13,6 @@
 ![React Badge](https://img.shields.io/badge/React-blue)
 ![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue)
 
-🌟 **GitHub Stats:**
 ![Sefa's GitHub stats](https://github-readme-stats.vercel.app/api?username=sefaosm&show_icons=true&theme=radical)
 
 🌟 **Fun Facts:**
