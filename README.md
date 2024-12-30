@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi there! 👋 I'm Sefa Osmanoğlu
 
-<!--
-**sefaosm/sefaosm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **About Me:**
+- 🧑‍💻 Rust Enthusiast | Full-Stack Developer
+- 🎸 Guitarist | Game Music Composer
+- 📍 Based in Turkey, exploring software and blockchain
 
-Here are some ideas to get you started:
+🌟 **Current Projects:**
+- **[Stake-X](https://github.com/sefaosm/Stake-X):** A staking DApp built with MultiversX, React, and Rust.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **Tech Stack:**
+![Rust Badge](https://img.shields.io/badge/Rust-🦀-orange)
+![React Badge](https://img.shields.io/badge/React-blue)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-blue)
+
+🌟 **GitHub Stats:**
+![Sefa's GitHub stats](https://github-readme-stats.vercel.app/api?username=sefaosm&show_icons=true&theme=radical)
+
+🌟 **Fun Facts:**
+- 🕹️ Working on a D&D-inspired build planner for Baldur's Gate 3!
+- 🏥 Transitioning from nursing to software development.
+
+---
+
+Let's connect and build something awesome together!
