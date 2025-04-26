@@ -2,7 +2,6 @@
 
 🌟 **About Me:**
 - 🧑‍💻 Rust Enthusiast | Full-Stack Developer
-- 🎸 Game Music Composer
 - 📍 Based in Turkey, exploring software and blockchain
 
 🌟 **Current Projects:**
