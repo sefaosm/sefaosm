@@ -1,9 +1,10 @@
 <div align="center">
 
-# 👋 Hi, I'm Sefa Osmanoğlu
+<img src="./assets/header.svg" alt="Sefa Osmanoğlu" width="800"/>
 
-### 🎯 Full-Stack Developer | Rust & .NET Enthusiast
-*Former nurse turned passionate developer, blending care with code* 💉→💻
+<br/>
+
+*Former nurse turned passionate developer, blending care with code*
 
 <br/>
 
