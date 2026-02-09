@@ -1,0 +1,64 @@
+<svg width="800" height="180" viewBox="0 0 800 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="minBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f0f23"/>
+      <stop offset="100%" stop-color="#1a1a2e"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#a78bfa"/>
+    </linearGradient>
+  </defs>
+  
+  <rect width="800" height="180" fill="url(#minBg)" rx="8"/>
+  <rect x="0" y="0" width="800" height="4" fill="url(#accentLine)" rx="8"/>
+  
+  <g transform="translate(40, 35)">
+    <rect width="200" height="110" fill="#0d0d1a" rx="8" stroke="#333" stroke-width="1"/>
+    <rect width="200" height="25" fill="#1a1a2e" rx="8"/>
+    <rect y="12" width="200" height="13" fill="#1a1a2e"/>
+    <circle cx="18" cy="12" r="5" fill="#ff5f56"/>
+    <circle cx="38" cy="12" r="5" fill="#ffbd2e"/>
+    <circle cx="58" cy="12" r="5" fill="#27ca40"/>
+    <text x="15" y="50" font-family="monospace" font-size="11">
+      <tspan fill="#6bdf6b">➜</tspan>
+      <tspan fill="#8b5cf6"> ~/sefa</tspan>
+    </text>
+    <text x="15" y="68" font-family="monospace" font-size="10" fill="#888">
+      $ mass status
+    </text>
+    <text x="15" y="86" font-family="monospace" font-size="10">
+      <tspan fill="#feca57">nurse:</tspan>
+      <tspan fill="#6b7280"> mass retired</tspan>
+    </text>
+    <text x="15" y="100" font-family="monospace" font-size="10">
+      <tspan fill="#8b5cf6">developer:</tspan>
+      <tspan fill="#6bdf6b"> mass active</tspan>
+    </text>
+  </g>
+  
+  <g transform="translate(500, 90)">
+    <text x="0" y="-25" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="32" font-weight="bold" fill="#fff">
+      Sefa Osmanoğlu
+    </text>
+    <text x="0" y="5" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#888">
+      Full-Stack Developer
+    </text>
+    
+    <g transform="translate(0, 35)">
+      <rect x="-95" y="-12" width="55" height="22" fill="transparent" stroke="#dea584" stroke-width="1.5" rx="11"/>
+      <text x="-67" y="4" text-anchor="middle" font-family="monospace" font-size="11" fill="#dea584">Rust</text>
+      
+      <rect x="-30" y="-12" width="55" height="22" fill="transparent" stroke="#9b4dca" stroke-width="1.5" rx="11"/>
+      <text x="-2" y="4" text-anchor="middle" font-family="monospace" font-size="11" fill="#9b4dca">.NET</text>
+      
+      <rect x="35" y="-12" width="75" height="22" fill="transparent" stroke="#6366f1" stroke-width="1.5" rx="11"/>
+      <text x="72" y="4" text-anchor="middle" font-family="monospace" font-size="11" fill="#6366f1">Stellar</text>
+    </g>
+  </g>
+  
+  <text x="770" y="165" text-anchor="end" font-family="Georgia, serif" font-style="italic" font-size="11" fill="#4b5563">
+    💉 → 💻
+  </text>
+</svg>
